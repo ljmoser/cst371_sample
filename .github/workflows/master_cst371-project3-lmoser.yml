@@ -21,6 +21,9 @@ jobs:
       with:
         dotnet-version: '5.0.x'
 
+    - name: list
+      run: ls
+
     - name: Build with dotnet
       run: dotnet build --configuration Release
 
