@@ -1,0 +1,17 @@
+C:\Users\moser\code\marian\cst371_sample\myapp\cst371_sample.exe
+C:\Users\moser\code\marian\cst371_sample\myapp\cst371_sample.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\cst371_sample.deps.json
+C:\Users\moser\code\marian\cst371_sample\myapp\cst371_sample.runtimeconfig.json
+C:\Users\moser\code\marian\cst371_sample\myapp\cst371_sample.pdb
+C:\Users\moser\code\marian\cst371_sample\myapp\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Microsoft.IdentityModel.Logging.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Microsoft.OpenApi.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moser\code\marian\cst371_sample\myapp\System.IdentityModel.Tokens.Jwt.dll

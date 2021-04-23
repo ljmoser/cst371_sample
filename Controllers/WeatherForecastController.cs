@@ -30,7 +30,7 @@ namespace cst371_sample.Controllers
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
-                TemperatureC = rng.Next(-2000, 5500),
+                TemperatureC = rng.Next(10, 14),
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
